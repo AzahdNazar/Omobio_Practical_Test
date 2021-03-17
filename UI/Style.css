@@ -1,0 +1,27 @@
+.login-main{
+    height: 750px;
+    background-image: url(Images/BG_Login.jpg);
+    background-size:cover;
+
+
+}
+
+.login-form {
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    color: rgb(0, 0, 0);
+
+}
+
+.btn-login {
+    background-color:dodgerblue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-login:hover {
+    opacity: 0.8;
+}
